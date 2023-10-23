@@ -1,7 +1,7 @@
 # Popcat Click
 
 Automatically click popcat by selenium, python  
-move_by_offset to get precise points for clicking
+move_by_offset to get the precise point for clicking
 
 
 ## Version
